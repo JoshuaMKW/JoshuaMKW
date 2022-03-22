@@ -1,16 +1,15 @@
-### Hi there 👋
+# About Me
 
-<!--
-**JoshuaMKW/JoshuaMKW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self taught programmer, and occasional reverse engineer! I am interested in practical application development and making games as a job and hobby, and I'm also a critical thinker and problem solver to the core.
 
-Here are some ideas to get you started:
+Python is my favorite programming language, and I also find low level programming to be pretty awesome.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Statistics:
+
+[![JoshuaMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaMKW&theme=vision-friendly-dark)](https://github.com/JoshuaMKW/github-readme-stats)
+
+### Languages:
+
+[![JoshuaMK's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMKW&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
