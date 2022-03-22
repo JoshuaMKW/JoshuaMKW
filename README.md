@@ -1,6 +1,6 @@
 # About Me
 
-I'm a self taught programmer, and occasional reverse engineer! I am interested in practical application development and making games as a job and hobby, and I'm also a critical thinker and problem solver to the core.
+I'm a self taught programmer, and occasional reverse engineer! I am interested in practical application development and making games as a job and hobby. I am also a critical thinker and problem solver to the core.
 
 Python is my favorite programming language, and I also find low level programming to be pretty awesome.
 
