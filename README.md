@@ -2,7 +2,7 @@
 
 I'm a self taught programmer, and occasional reverse engineer! I am interested in practical application development and making games as a job and hobby. I am also a critical thinker and problem solver to the core.
 
-Python is my favorite programming language, and I also find low level programming to be pretty awesome.
+C++ is my favorite programming language, and I also find low level assembly programming to be pretty awesome.
 
 ---
 
